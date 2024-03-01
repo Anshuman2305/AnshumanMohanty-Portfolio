@@ -4,7 +4,7 @@ import EducationCard from './reusableComponents/Educationcard'
 function Education() {
     return (
         <div className="education-container p-2 lg:p-4">
-            <h2 className="text-2xl text-brightgreen font-bold mb-4">EDUCATION</h2>
+            <h2 className="text-2xl text-brightgreen font-bold mb-4 px-2">EDUCATION</h2>
             <div className="card-container flex flex-col justify-center gap-4">
                 <EducationCard
 

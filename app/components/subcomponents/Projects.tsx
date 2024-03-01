@@ -3,10 +3,10 @@ import ProjectCard from './reusableComponents/Projectcard'
 
 function Projects() {
     return (
-        <div className="hero-container flex flex-row gap-8 justify-between items-center px-2 lg:px-8 py-12">
+        <div className="hero-container flex flex-row gap-8 justify-between items-center px-2 py-2 lg:px-8 lg:py-12">
             <div className="flex flex-col gap-6 w-full">
-                <h1 className="text-3xl text-brightgreen font-bold">Projects -{'>'}</h1>
-                <div className="grid md:grid-cols-2 gap-4">
+                <h1 className="text-3xl text-brightgreen font-bold px-2">Projects -{'>'}</h1>
+                <div className="grid md:grid-cols-2 gap-2 md:gap-4">
                     <ProjectCard title="Rock Identification using ML" description="From delving into the depths of the earth to navigating the vast expanses of the digital realm." />
                     <ProjectCard title="Rock Identification using ML" description="From delving into the depths of the earth to navigating the vast expanses of the digital realm." />
                     <ProjectCard title="Rock Identification using ML" description="From delving into the depths of the earth to navigating the vast expanses of the digital realm." />
