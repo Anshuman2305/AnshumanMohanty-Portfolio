@@ -7,10 +7,10 @@ function Projects() {
             <div className="flex flex-col gap-6 w-full">
                 <h1 className="text-3xl text-brightgreen font-bold px-2">Projects -{'>'}</h1>
                 <div className="grid md:grid-cols-2 gap-2 md:gap-4">
-                    <ProjectCard title="Rock Identification using ML" description="From delving into the depths of the earth to navigating the vast expanses of the digital realm." />
-                    <ProjectCard title="Rock Identification using ML" description="From delving into the depths of the earth to navigating the vast expanses of the digital realm." />
-                    <ProjectCard title="Rock Identification using ML" description="From delving into the depths of the earth to navigating the vast expanses of the digital realm." />
-                    <ProjectCard title="Rock Identification using ML" description="From delving into the depths of the earth to navigating the vast expanses of the digital realm." />
+                    <ProjectCard web_link='https://github.com/Anshuman2305/Twitter-Clone-NextJs' title="Twitter Clone" description="Twitter Clone using Next.js and Sanity.io." />
+                    <ProjectCard web_link='https://github.com/Anshuman2305/Blogging-Website-Nextjs' title="Blogging Website" description="Personal Blogging Website using Next.js and Sanity.io." />
+                    <ProjectCard web_link='https://github.com/Anshuman2305/Mental-Health-CodeUtsava' title="Depression Detection WebApp" description="A Depression Detection WebApp using Sklearn and Flask." />
+                    <ProjectCard web_link='https://github.com/Anshuman2305/Rock-Identification' title="Rock Identification using ML" description="Rock Identification using CNN and Tensorflow.js." />
                 </div>
             </div>
         </div>
