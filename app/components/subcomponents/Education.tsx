@@ -17,7 +17,7 @@ function Education() {
                 />
                 <EducationCard
 
-                    timeperiod='Jun 23 - Dec 23'
+                    timeperiod='Apr 17 - May 18'
                     marks='90.4%'
                     institute_name='Kendriya Vidyalaya No. 2 Raipur'
                     short_institute_name='Kendriya Vidyalaya No. 2 Raipur'
@@ -26,7 +26,7 @@ function Education() {
                 />
                 <EducationCard
 
-                    timeperiod='Jun 23 - Dec 23'
+                    timeperiod='Apr 15 - May 16'
                     marks='10/10'
                     institute_name='Kendriya Vidyalaya No. 2 Raipur'
                     short_institute_name='Kendriya Vidyalaya No. 2 Raipur'
