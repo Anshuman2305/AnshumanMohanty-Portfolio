@@ -23,8 +23,8 @@ body {
        screen and (min-width: 768px) and (-o-min-device-pixel-ratio: 5/4),
        screen and (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25) {
   html, body {
-    zoom: 0.9; /* Adjust zoom level to counteract the 125% zoom */
-    height: 120vh; /* Adjust height to fit 100vh at 125% zoom */
+    zoom: 0.8; /* Adjust zoom level to counteract the 125% zoom */
+    height: 110vh; /* Adjust height to fit 100vh at 125% zoom */
   }
 
   .maincontainer {
